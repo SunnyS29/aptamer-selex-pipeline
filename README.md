@@ -105,8 +105,8 @@ Think of every sequence as a runner in a stadium. The question is not who looked
 Use Python 3.11 for the same version checked by the automated test workflow.
 
 ```bash
-git clone https://github.com/SunnyS29/aptamer_test_repo.git
-cd aptamer_test_repo
+git clone https://github.com/SunnyS29/aptamer-selex-pipeline.git
+cd aptamer-selex-pipeline
 pip install -r requirements.txt
 ```
 
